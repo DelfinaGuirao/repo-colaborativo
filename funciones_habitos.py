@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 
 def registrar_habitos():
@@ -17,7 +17,9 @@ def registrar_habitos():
              break 
    return lista_habitos
         
-=======
+
+
+
 def analizar_habitos (lista): 
     dicc_final={}
     for actividad in lista: 
@@ -25,5 +27,7 @@ def analizar_habitos (lista):
             dicc_final[actividad] += 1
      else:
             dicc_final[actividad] = 1
+
     return dicc_final 
->>>>>>> c26329f303170f573da17e56d97e933863857235
+ 
+
