@@ -1,4 +1,6 @@
 # repo-colaborativo
+"""
+
 repositorio colaborativo n-1
 
 l archivo README.md del repositorio deberá contener:
@@ -14,3 +16,4 @@ programa y al sistema guardar esos datos y trabajar con esa inromacion.
 Integrantes
 Josefina Hermina, Leila Mena, Delfina Guirao y Emilia Welyczko 
 
+"""
