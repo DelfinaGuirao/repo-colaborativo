@@ -1,5 +1,14 @@
+"""
+def registrar_habitos(lista):
 
-
+    Recorrer los ingresos del usuario y crear una lista con las actividades ingresadas.
+   
+    Args:
+        No recibe parametros
+    
+    Returns:
+        lista_habitos(list): una lista con las actividades ingresadas por el usuario
+    """    
 
 def registrar_habitos():
    lista_habitos=[]
